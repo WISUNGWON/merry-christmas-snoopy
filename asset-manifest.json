@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/merry-christmas-snoopy/static/js/main.639d80d4.chunk.js",
-    "main.js.map": "/merry-christmas-snoopy/static/js/main.639d80d4.chunk.js.map",
+    "main.js": "/merry-christmas-snoopy/static/js/main.7f7cf1f1.chunk.js",
+    "main.js.map": "/merry-christmas-snoopy/static/js/main.7f7cf1f1.chunk.js.map",
     "runtime-main.js": "/merry-christmas-snoopy/static/js/runtime-main.43edee65.js",
     "runtime-main.js.map": "/merry-christmas-snoopy/static/js/runtime-main.43edee65.js.map",
     "static/js/2.f0fcf834.chunk.js": "/merry-christmas-snoopy/static/js/2.f0fcf834.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.43edee65.js",
     "static/js/2.f0fcf834.chunk.js",
-    "static/js/main.639d80d4.chunk.js"
+    "static/js/main.7f7cf1f1.chunk.js"
   ]
 }
